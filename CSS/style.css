@@ -36,7 +36,7 @@ section.menu{
     justify-content:space-between;
     margin: var(--margin-do-trabalho);
     height:88px;
-    width:1457px;
+    width:80%;
     background-color: var(--cor-mediana);
     position: fixed;
 }
@@ -76,7 +76,7 @@ section.title{
     height: 390px;
     margin: var(--margin-do-trabalho);
     justify-content: space-around;
-    width:1437px;
+    width:80%
     height: auto;
 
     
@@ -152,7 +152,7 @@ section.about{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    width: 1457px;
+    width: 80%;
     height: 400px;
     margin: var(--margin-do-trabalho);
     
